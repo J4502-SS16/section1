@@ -26,10 +26,20 @@ Any questions, or if I forgot something, hit me up on Slack.
 
 ###w1d2
 
+* [Webiness (Jeremy Keith)](https://adactio.com/journal/7863)
+
+* [A People's History of the Internet (The Guardian)](http://www.theguardian.com/technology/interactive/2009/oct/23/internet-arpanet)
+
+* [Stuck in Seattle](http://www.bloomberg.com/graphics/2015-bertha/)
+
 * [Soccer, Made in America](http://www.wsj.com/articles/with-his-eye-on-the-world-cup-soccer-coach-jurgen-klinsmann-overhauls-team-usa-1401899734)
 
 * [The Serengeti Lion](http://ngm.nationalgeographic.com/serengeti-lion/index.html)
 
 * [Coal: A Love Story](http://www.poweringanation.org/coal)
 
-* [Myths Made Flesh: Last Breaths in a Spanish bullring](http://www.sbnation.com/longform/2015/8/19/9167197/last-breaths-in-a-spanish-bullring)
+* [The Deadliest Wave](http://www.sbnation.com/longform/2014/4/15/5525574/kelly-slater-mick-fanning-surfing-profile-banzai-pipeline)
+
+* [Myths Made Flesh: Last Breaths in a Spanish Bullring](http://www.sbnation.com/longform/2015/8/19/9167197/last-breaths-in-a-spanish-bullring)
+
+* [How Designers Destroyed the World](https://vimeo.com/68470326)
