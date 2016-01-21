@@ -10,10 +10,10 @@ This is where you'll look to find class readings and discussion guides. The week
 
 1) What was the thing that surprised you the most about it?
 
-1) What did you learn about how computers work that you didn’t know before?
+2) What did you learn about how computers work that you didn’t know before?
 
-1) What did you learn about how programming languages work that you didn’t know before?
+3) What did you learn about how programming languages work that you didn’t know before?
 
-1) What are frameworks? How would they affect us?
+4) What are frameworks? How would they affect us?
 
-1) Are you more or less nervous about the class after reading it?
+5) Are you more or less nervous about the class after reading it?
